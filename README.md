@@ -1,6 +1,5 @@
 # Binary-Prediction-with-a-Rainfall-Dataset---Data-Analysis-Project
 
-# Binary Prediction with a Rainfall Dataset
 
 ## Overview
 This project is built for the Kaggle competition **"Playground Series S5E3"**, which focuses on binary classification using a rainfall dataset. The objective is to predict whether rainfall will occur (Yes or No) based on several meteorological features.
@@ -9,7 +8,7 @@ The solution uses a **neural network** implemented with **TensorFlow**, alongsid
 
 ---
 
-## ⚙️ What the Code Does
+## What the Code Does
 
 ### 1. Setting Up the Environment
 - **Data Access**: Uses `kagglehub` to download the competition dataset `playground-series-s5e3`, which includes `train.csv` and `test.csv`.
